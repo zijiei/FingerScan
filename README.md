@@ -34,4 +34,4 @@ task_run(url, finger_dic, waf) # waf:检测waf值True/False 不填默认为False
 
 ## 参考
 
-[EHole](https://github.com/EdgeSecurityTeam/EHole) | [TideFinger](https://github.com/TideSec/TideFinger) | [Glass](https://github.com/s7ckTeam/Glass) | [goby指纹提取与yara逆向](https://x.hacking8.com/post-434.html) | [OneForAll](https://github.com/shmilylty/OneForAll) | [WAFW00F](https://github.com/EnableSecurity/wafw00f)  
+[EHole](https://github.com/EdgeSecurityTeam/EHole) | [TideFinger](https://github.com/TideSec/TideFinger) | [Glass](https://github.com/s7ckTeam/Glass) | [OneForAll](https://github.com/shmilylty/OneForAll) | [WAFW00F](https://github.com/EnableSecurity/wafw00f)  
